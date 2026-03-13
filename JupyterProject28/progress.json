@@ -1,0 +1,198 @@
+{
+  "current_level": "beginner",
+  "sessions_completed": 1,
+  "lessons": {
+    "1": {
+      "completed_lessons": 1,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "2": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "3": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "4": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "5": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "6": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "8": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "18": {
+      "completed_lessons": 0,
+      "last_feedback": "correct\n\nYour answer captures the core idea for both types and gives appropriate examples. The explanations are clear and on-point, though you could improve slightly by tightening the language and making the distinction a bit more explicit.\n\n**What you did well:**\n- You correctly stated that supervised learning uses labeled data and learns a mapping from inputs to outputs.\n- You correctly noted that unsupervised learning uses unlabeled data and looks for patterns or structure.\n- Your examples are appropriate: spam detection is a classic supervised learning task, and customer segmentation is a classic unsupervised one.\n\n**What could be improved:**\n- You could mention that supervised learning often involves prediction (classification or regression), while unsupervised learning often involves clustering or dimensionality reduction.\n- A bit more precise wording and punctuation would make it clearer and more formal.\n\n**Ideal answer:**\n\n- **Supervised learning** uses labeled data, where each input has a known output, and the model learns a mapping from inputs to outputs to make predictions on new data.  \n  *Example:* Classifying emails as \u201cspam\u201d or \u201cnot spam\u201d based on past labeled emails.\n\n- **Unsupervised learning** uses unlabeled data; the model tries to discover patterns or structure in the data without given output labels.  \n  *Example:* Grouping customers into segments based on their purchasing behavior.",
+      "total_questions": 1,
+      "correct_questions": 1.0
+    },
+    "25": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "26": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "27": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "28": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "29": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "30": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "31": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "32": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "33": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "34": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "35": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "36": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "37": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "38": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "39": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "40": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "44": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "45": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "46": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "47": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "48": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "49": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "50": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    },
+    "51": {
+      "completed_lessons": 0,
+      "last_feedback": "",
+      "total_questions": 0,
+      "correct_questions": 0.0
+    }
+  }
+}
